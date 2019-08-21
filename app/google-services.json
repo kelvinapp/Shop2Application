@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "99078977600",
+    "firebase_url": "https://fir-shop2application.firebaseio.com",
+    "project_id": "fir-shop2application",
+    "storage_bucket": "fir-shop2application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99078977600:android:4fd5c6be6cfddd77",
+        "android_client_info": {
+          "package_name": "com.kelvin.shop2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99078977600-39111cru7ade7d7hiognhq8qhqrl8o5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelvin.shop2",
+            "certificate_hash": "a1d5ff398b207012d95e6e84d2905d80d5385ddf"
+          }
+        },
+        {
+          "client_id": "99078977600-pfu7ing3k6njjh3rm19v49ve6jg37ufg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOji2Xzj8wAI5_J69d9QNC61i8zlhrehA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99078977600-pfu7ing3k6njjh3rm19v49ve6jg37ufg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
